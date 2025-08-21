@@ -18,19 +18,15 @@
 ## 👨‍💻 Developers  
 
 - **Ogün ATALAY**  
-  📞 +90 544 844 85 81  
   ✉️ ogun.atalay33@gmail.com  
 
 - **İrem Naz KARARTI**  
-  📞 +90 507 490 73 81  
   ✉️ iremnazkararti@gmail.com  
 
 - **Halil Rodi DAĞ**  
-  📞 +90 505 669 22 64  
   ✉️ daghalilrodi@gmail.com  
 
 - **Pelin CANBAY**  
-  📞 +90 534 548 56 32  
   ✉️ canbay.pelin@gmail.com  
 
 ---
@@ -51,12 +47,12 @@ The dataset collected by the research team consists of **5,600 images** of **7 d
 ## 💻 Development Environment  
 - **Platform**: Google Colaboratory  
 - **Programming Language**: Python 3.11  
-- **GPU**: A CUDA-enabled NVIDIA Tesla **T4**
+- **GPU**: CUDA-enabled NVIDIA Tesla **T4**
 
 ---
 
 ## 🤖 Artificial Intelligence Models  
-We implemented and compared multiple **Deep Learning** and **Transfer Learning** models:  
+This study implements and compares multiple **Deep Learning** and **Transfer Learning** models:  
 
 - ResNet-18  
 - MobileNet V2  
@@ -72,7 +68,7 @@ We implemented and compared multiple **Deep Learning** and **Transfer Learning**
 
 ## 📦 Libraries Used  
 
-### 🔹 Core Deep Learning  
+### 🔹 Deep Learning  
 - `torch`, `torch.nn`, `torch.optim`, `torch.optim.lr_scheduler`
 
 ### 🔹 Computer Vision  
@@ -93,9 +89,8 @@ We implemented and compared multiple **Deep Learning** and **Transfer Learning**
 ---
 
 ## 📊 Objective  
-This study introduces a **novel dataset** and investigates **deep and transfer learning models** for **plastic waste classification**, with an emphasis on **carbon emission impact** and **environmental sustainability**.
+This study introduces a **novel plastic waste image dataset** and explores **deep learning** and **transfer learning** models for **plastic waste classification**, with a focus on **carbon emission impact** and **environmental sustainability**.  
 
 ---
 
 ✍️ *For detailed implementation and experiments, please check the repository.*  
-
